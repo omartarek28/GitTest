@@ -10,7 +10,7 @@
     </modules>
     <packaging>pom</packaging>
 
-    <name>hibertnaeogm-mongo</name>
+    <name>-mongo</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
