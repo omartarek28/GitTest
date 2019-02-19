@@ -8,7 +8,6 @@
     <modules>
         <module>entities</module>
         <module>services</module>
-        <module>rest</module>
         <module>war</module>
     </modules>
     <packaging>pom</packaging>
