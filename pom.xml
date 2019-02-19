@@ -13,7 +13,7 @@
     </modules>
     <packaging>pom</packaging>
 
-    <name>hibernateogm-mongo</name>
+    <name>hibernaeogm-mongo</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
