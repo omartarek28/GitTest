@@ -12,7 +12,7 @@
     </modules>
     <packaging>pom</packaging>
 
-    <name>hibernaeogm-mongooose</name>
+    <name>hiberntaeogm-mongooose</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
