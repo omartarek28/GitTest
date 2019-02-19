@@ -11,7 +11,7 @@
     </modules>
     <packaging>pom</packaging>
 
-    <name>hibertnaeogm-monego</name>
+    <name>hibertnaeogm-mongo</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
