@@ -9,7 +9,12 @@
         <module>entities</module>
     </modules>
     <packaging>pom</packaging>
+<<<<<<< HEAD
     <name>hibertnaeogm-monego</name>
+=======
+
+    <name>hibertnaeogm-mongo</name>
+>>>>>>> 4497d734462991f79876b2cdd861e6a500ea364e
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
